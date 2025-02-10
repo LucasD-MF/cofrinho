@@ -1,4 +1,4 @@
-🏦 ## Cofrinho de Moedas em Java
+# Cofrinho de Moedas em Java
 
 📌 Descrição
 Este projeto implementa um cofrinho digital em Java, permitindo armazenar moedas de diferentes países e converter o valor total para reais (BRL). Ele utiliza herança e polimorfismo para representar diferentes moedas e inclui um validador para garantir entradas corretas.
